@@ -9,12 +9,12 @@
 #Connect with me:
 
 
-# Skills:
+## Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,html,js,c,css,cpp,py" />
   </a>
 </p>
 
-# Stats
+## Stats
 [![rubaian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubaian)](https://github.com/rubaian/github-readme-stats)
