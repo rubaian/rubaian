@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: fayhanbinrubaian@gmail.com
 ## Connect with me:
-![https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white]({https://twitter.com/fayhanexe})
+https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
 
 
 ## Skills:
