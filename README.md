@@ -20,5 +20,5 @@
 
 
 
-## Stats
+## Stats:
 [![rubaian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rubaian)](https://github.com/rubaian/github-readme-stats)
