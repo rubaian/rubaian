@@ -4,7 +4,7 @@
 - 👦 My name is Fayhan
 - 🇸🇦 I'm from Saudi Arabia, Khobar
 - 🏫 I study at Imam Abdulrahman Bin Faisal University
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: fayhanbinrubaian@gmail.com
 
 ## Skills:
